@@ -1,5 +1,5 @@
 <p align="center">
-  <strong>Full-stack Developer | AI & Automation Enthusiast | API Integrator</strong><br/>
+  <strong>Full-stack Developer | API Integrator</strong><br/>
   🧠 I turn ideas into code — from bots to mobile apps to backend systems.
 </p>
 
